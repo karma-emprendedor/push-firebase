@@ -1,5 +1,4 @@
 # Firebase 3 + Ionic 2 + FCM Push Notifications + Ionic Cloud
-# Firebase 3 + Ionic 2 login via Facebook Auth
 ## Steps to install
 <ul>
 <li>git clone https://github.com/karma-emprendedor/push-firebase</li>
